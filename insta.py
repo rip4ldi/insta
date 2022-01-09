@@ -11,6 +11,7 @@ from datetime import date
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor
 
+os.system("git pull")
 
 errorsc = '02-02-2022'
 # Blod Colors
