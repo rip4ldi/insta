@@ -5,7 +5,7 @@ $ pkg install git
 $ pip2 install requests
 $ pip2 install mechanize
 $ pip2 install bs4
-$ pip install futures
+$ pip2 install futures
 $ git clone https://github.com/dekusex/insta
 $ cd insta
 $ python2 insta.py
